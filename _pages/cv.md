@@ -87,12 +87,10 @@ publications
 
 
 
-20. Kim YS, Anderson M, Park K, Zheng Q, Agarwal A, Gong C, Saijilafu, Young L, He S, LaVinka PC, Zhou F-Q, Bergles D, Hanani M, Guan Y, Spray DC, Dong X* (2016) Coupled activation of primary sensory neurons contributes to chronic pain. Neuron, 91(5): 1085-96
-
-21. Tomlinson RE, Li Z, Zhang Q, Goh BC, Li Z, Thorek DL, Rajbhandari L, Brushart TM, Minihiello L,Zhou F-Q,Venkatesan A,Clemens TL* (2016) NGF-TrkA signaling by sensory nerves coordinates vascularization and ossification of developing endochondral bone.Cell Reports, 16 (10): 2723-35. 
-
-22. Gorshkov K, Mehta S, Ramamurthy S, Ronnett GV, Zhou F-Q,Zhang J* (2016) AKAP-mediated feedback control of cAMP gradients in developing hippocampal neurons.Nature Chemical Biology,13, 425-31.
-
+20. Kim YS, Anderson M, Park K, Zheng Q, Agarwal A, Gong C, Saijilafu, Young L, He S, LaVinka PC, Zhou F-Q, Bergles D, Hanani M, Guan Y, Spray DC, Dong X* (2016) Coupled activation of primary sensory neurons contributes to chronic pain. Neuron, 91(5): 1085-96.
+21. Gorshkov K, Mehta S, Ramamurthy S, Ronnett GV, Zhou F-Q,Zhang J* (2016) AKAP-mediated feedback control of cAMP gradients in developing hippocampal neurons.Nature Chemical Biology,13, 425-31.
+    
+22. Tomlinson RE, Li Z, Zhang Q, Goh BC, Li Z, Thorek DL, Rajbhandari L, Brushart TM, Minihiello L,Zhou F-Q,Venkatesan A,Clemens TL* (2016) NGF-TrkA signaling by sensory nerves coordinates vascularization and ossification of developing endochondral bone.Cell Reports, 16 (10): 2723-35. 
 
 23.Tang G-B, Zeng Y-Q, Liu P-P, Mi T-W, Zhang S-F, Dai S-K, Tang Q-Y, Yang L, Xu Y-J, Yan H-L, Du H-Z, Teng Z-Q*, Zhou F-Q*, Liu C-M* (2017) The histone H3K27 demethylase UTX regulates synaptic plasticity and cognitive behaviour in mice. Frontiers in Molecular Neuroscience, 10:267.
 
