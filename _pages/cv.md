@@ -96,7 +96,6 @@ publications
 22. Gorshkov K, Mehta S, Ramamurthy S, Ronnett GV, Zhou F-Q, Zhang J* (2016) AKAP-mediated feedback control of cAMP gradients in developing hippocampal neurons. Nature Chemical Biology, 13, 425-31.
 
 
-
 23.Tang G-B, Zeng Y-Q, Liu P-P, Mi T-W, Zhang S-F, Dai S-K, Tang Q-Y, Yang L, Xu Y-J, Yan H-L, Du H-Z, Teng Z-Q*, Zhou F-Q*, Liu C-M* (2017) The histone H3K27 demethylase UTX regulates synaptic plasticity and cognitive behaviour in mice. Frontiers in Molecular Neuroscience, 10:267.
 
 
