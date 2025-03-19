@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "other publications"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'past year work'
+#date: 2002
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: '1. Zhou F-Q, Waterman-Storer CM, Cohan CS* (2002) Focal loss of actin bundles causes microtubule redistribution and growth cone turning.  Journal of Cell Biology, 157 (5): 839-849. (Cover image and highlighted article; a ‘must read’ article by Faculty of 1000)
 
 
