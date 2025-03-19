@@ -7,293 +7,165 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## 浙江大学医学院附属邵逸夫医院神经再生转化中心招聘启事
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
-
-* While GitHub Pages prevents server side code from running, client-side scripts are supported.
-  * This means that Google Analytics is supported, and [the wiki](https://github.com/academicpages/academicpages.github.io/wiki/Adding-Google-Analytics) should contain the most up-to-date information on getting it working.
-
-* Your CV can be written using either Markdown ([preview](https://academicpages.github.io/cv/)) or generated via JSON ([preview](https://academicpages.github.io/cv-json/)) and the layouts are slightly different. You can update the path to the one being used in `_data/navigation.yml` with the JSON formatted CV being hidden by default.
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
-
-## MathJax 
-
-Support for MathJax Version 3.0 is included in the template:
-
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
-
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
-
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
-
-## Markdown guide
-
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-Basic notices or call-outs are supported using the following syntax:
-
-```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
 ```
 
-which wil render as:
+### （一）浙江大学“百人计划”研究员
 
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-
-### Footnotes
-
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
-
-```markdown
-This is the regular text.[^1] This is more regular text.[^note]
-
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
-```
-
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "GitHub").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
-
-```python
-print('Hello World!')
-```
-
-or R:
-
-```R
-print("Hello World!", quote = FALSE)
-```
-
-### Details Tag (collapsible sections)
-
-The HTML `<details>` tag works well with Markdown and allows you to include collapsible sections, see [W3Schools](https://www.w3schools.com/tags/tag_details.asp) for more information on how to use the tag.
-
-<details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
-</details>
-
-The source code:
-
-```HTML
-<details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
-</details>
-```
-
-Or, you can leave a section open by default by including the `open` attribute in the tag:
-
-<details open>
-  <summary>Open by default</summary>
-  This section is open by default thanks to open in the &lt;details open&gt; tag!
-</details>
+  
 
 
-### Emphasize Tag
+【申报条件】
 
-The emphasize tag should _italicize_ text.
+1.       坚持立德树人，坚持正确政治方向，学风严谨，恪守师德行为规范和学术道德规范，具有良好的合作精神，对浙江大学文化和价值观高度认同；
 
-### Insert Tag
+2.       科学研究取得突出业绩，具有发展潜力，属于国际科学前沿、主流及未来方向，符合学科发展需要，具有国际高水平大学助理教授或副教授相当学术水平，原则上能独立发展一个学术方向；
 
-This tag should denote <ins>inserted</ins> text.
+3.       教育背景和学术结构良好，相关研究成果得到国内外同行普遍认可，以第一作者或通讯作者发表高质量、高水平论文，或获得国际重要科技奖项，取得国际公认的科技成果。
 
-### Keyboard Tag
+【岗位待遇】
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+1.       聘期内对“百人计划”研究员实行年薪制，一人一议；
 
-### Preformatted Tag
+2.       提供具有竞争性的科研启动经费；
 
-This tag styles large blocks of code.
+3.       具有博士研究生招生资格，可优先安排博士生招生名额；
 
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
+4.       按政策提供相应的办公、实验用房。
 
-### Quote Tag
+ 
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+###（二）特聘（副）研究员
 
-### Strike Tag
+【岗位职责】
 
-This tag will let you <strike>strikeout text</strike>.
+从事高水平基础和临床相关研究，开展原创性理论与实践问题研究或关键技术攻关，提高学科的国内外学术影响力。
 
-### Strong Tag
+【基本条件】
 
-This tag shows **bold text**.
+1.      特聘研究员年龄不超过40周岁，特聘副研究员不超过37周岁；
 
-### Subscript Tag
+2.      博士学位，具有博士后研究工作经历；
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+3.      有神经科学领域，生物信息学，或者表观遗传学研究经验者优先；
 
-### Superscript Tag
+4.      以第一或通讯作者在相关领域发表至少1篇高水平文章；
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+5.      有良好的师德师风、严谨求实的学风，有突出的学术发展潜力和合作精神。
 
-### Variable Tag
+【岗位待遇】
 
-This allows you to denote <var>variables</var>.
+1.      医院报备员额编制；
 
-***
-**Footnotes**
+2.      提供具有竞争性的薪酬和科研启动经费、一次性安家费；
 
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
+3.      支持申报研究生导师资格；
+
+4.      特别优秀者一人一议。
+
+ 
+
+###（三）助理研究员
+
+【岗位职责】
+
+1.      独立承担和开展课题研究；
+
+2.      独立申请项目并协助课题组申请项目；
+
+3.      协助指导实验室其他成员开展科研工作。
+
+【基本条件】
+
+1.      已取得（或即将取得）生物、医学相关科学博士学位；
+
+2.      具有创新性科研思维和较强的实验操作能力；
+
+3.      具有较强的英文能力，能够独立撰写英文论文。
+
+【岗位待遇】
+
+1.      医院报备员额编制，按照医院规定缴纳社会保险和住房公积金；
+
+2.      基础年薪25—30万元，根据科研成果发放额外奖励；
+
+3.      具有完善的晋升渠道，如聘期内有优秀科研成果可根据医院政策申请相应职位。
+
+ 
+
+###（四）博士后
+
+【岗位职责】
+
+1.      独立承担和开展课题研究；
+
+2.      独立申请项目并协助课题组申请项目；
+
+3.      协助指导实验室其他成员开展科研工作。
+
+【基本条件】
+
+1.      近3年取得博士学位，或将于近期获得博士学位，欢迎二轮博士后入站；
+
+2.      具有良好的英文阅读、听力、口语表达及英文论文撰写能力；
+
+3.      有较强的科研背景，以第一或通讯作者在相关领域发表高水平论文；
+
+              4.      神经生物学、细胞分子生物学、遗传学，生物信息学等相关领域；
+
+5.      对科学研究具有较强的兴趣和热情，具有较强的独立工作能力，认真负责、积极主动、诚实守信、善于沟通，有团队合作精神。
+
+【岗位待遇】
+
+博士后薪酬将根据个人科研工作能力和博士后有关规定从优发放。中心提供稳定的工作环境与一流的研究平台，协助申报博士后相关项目，根据兴趣与需求支持个人的职业发展。
+
+1.      享受国家和浙江大学博士后待遇，年薪30万—40万（根据申报者个人业绩及.  表现进行核定）；
+
+2.      博士后进站3个月内应完成开题，可申请确认助理研究员专业技术职务资格；人事关系进入学校的博士后人员在站时间满2年，可申报浙江大学专职研究副研究员职务任职资格；
+
+3.      博士后期间表现优秀，出站后可优先应聘我院员额编制岗位；
+
+4.      博士后在站期间，可以申请租住学校教师公寓；
+
+5.      充分考虑博士后的发展和职业规划，大力支持博士后申报国家及省部级科研项目，提供参加国内外高水平学术会议或国际著名大学学习交流的机会。
+
+ 
+
+###（五）科研助理
+
+【岗位职责】
+
+协助实验室科研人员开展课题，管理实验动物，协助行政助理完成实验室日常管理工作。对科研感兴趣或能力优秀者，能够独立承担部分科研项目及科研转化工作。
+
+【基本条件】
+
+1.      生物相关专业本科及以上学历；
+
+2.      责任心强，具有良好的沟通协调能力；
+
+3.      具备生物化学、细胞生物学、分子生物学等基础知识；
+
+4.      具备实验室小鼠实验操作经验者优先。
+
+【岗位待遇】
+
+根据邵逸夫医院相关规定以及申请人的工作能力而定，基础年薪11-13万元，在符合医院规定的条件下，根据科研成果发放额外奖励。
+
+ 
+
+###（六）博士研究生
+
+###（七）访问学者，学生
+
+
+
+应聘流程及联系
+
+本招聘启事长期有效，有意向者请将详细个人简历（包含个人基本信息、学习和工作经历、主要学术成就、承担科研项目情况、发表论文目录、代表性论文全文、专利及获奖情况，2名推荐人联系方式）及相关附件发送至fzhou4@zju.edu.cn邮箱并抄送nierui@srrsh.com。如有未尽事宜请联系聂老师咨询。
+
+联系电话：13588409659
+
+联系人：聂老师
 
