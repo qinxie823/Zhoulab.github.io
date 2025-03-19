@@ -95,7 +95,7 @@ publications
 
 
 
-22. Gorshkov K, Mehta S, Ramamurthy S, Ronnett GV, Zhou F-Q, Zhang J* (2016) AKAP-mediated feedback control of cAMP gradients in developing hippocampal neurons. Nature Chemical Biology, 13, 425-31.
+22. Gorshkov K, Mehta S, Ramamurthy S, Ronnett GV, Zhou F-Q, Zhang J* (2016) AKAP-mediated feedback control of cAMP gradients in developing hippocampal neurons.Nature Chemical Biology, 13, 425-31.
 
 
 
