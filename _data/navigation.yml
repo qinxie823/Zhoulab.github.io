@@ -20,8 +20,7 @@ main:
   - title: "实验室成员"
     url: /portfolio/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  
     
   - title: "发表文章"
     url: /cv/
