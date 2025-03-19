@@ -91,7 +91,7 @@ publications
 
 
 
-21. Tomlinson RE, Li Z, Zhang Q, Goh BC, Li Z, Thorek DL, Rajbhandari L, Brushart TM, Minihiello L, Zhou F-Q, Venkatesan A, Clemens TL* (2016) NGF-TrkA signaling by sensory nerves coordinates vascularization and ossification of developing endochondral bone. Cell Reports, 16 (10): 2723-35. 
+21. Tomlinson RE, Li Z, Zhang Q, Goh BC, Li Z, Thorek DL, Rajbhandari L, Brushart TM, Minihiello L, Zhou F-Q, Venkatesan A, Clemens TL* (2016) NGF-TrkA signaling by sensory nerves coordinates vascularization and ossification of developing endochondral bone.Cell Reports, 16 (10): 2723-35. 
 
 
 
