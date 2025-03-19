@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "招聘"
+title: "浙江大学医学院附属邵逸夫医院神经再生转化中心招聘启事"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-浙江大学医学院附属邵逸夫医院神经再生转化中心招聘启事
+
 
 
 
