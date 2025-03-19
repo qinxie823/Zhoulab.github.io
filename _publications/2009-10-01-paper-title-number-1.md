@@ -1,15 +1,14 @@
 ---
 title: "other publications"
 collection: publications
-category: manuscripts
+#category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'past year work'
 #date: 2002
-venue: 'Journal 1'
+#venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 
-'1. Zhou F-Q, Waterman-Storer CM, Cohan CS* (2002) Focal loss of actin bundles causes microtubule redistribution and growth cone turning.  Journal of Cell Biology, 157 (5): 839-849. (Cover image and highlighted article; a ‘must read’ article by Faculty of 1000)
+citation: '1. Zhou F-Q, Waterman-Storer CM, Cohan CS* (2002) Focal loss of actin bundles causes microtubule redistribution and growth cone turning.  Journal of Cell Biology, 157 (5): 839-849. (Cover image and highlighted article; a ‘must read’ article by Faculty of 1000)
 2. Zhou F-Q, Zhou J, Dedhar S, Wu Y-H, Snider WD* (2004) NGF-induced axon growth is mediated by localized inactivation of GSK-3β and functions of the microtubule plus end binding protein, APC. Neuron, 42(6): 897-912. (Highlighted article with preview; a ‘Must read’ article by Facultyof1000)
 3. Zhou F-Q, Snider WD* (2005) GSK-3β and microtubule assembly in axons. Science, 308: 211-214. (Review)
 4. Zhou F-Q, Walzer MA, Wu Y-H, Zhou J, Dedhar S, Snider WD*  (2006) Neurotrophins support regenerative axon assembly over CSPGs by an ECM-integrin independent mechanism. Journal of Cell Science, 119 (13): 2787-2796. (Cover image)
