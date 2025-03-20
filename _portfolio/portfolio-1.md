@@ -1,6 +1,6 @@
 ---
 title: "杨树广博士"
-excerpt: "科研主管 <br/><img src='/images/shuguang.png'>"
+excerpt: "科研主管 "
 collection: portfolio
 ---
 
