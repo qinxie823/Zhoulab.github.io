@@ -1,7 +1,7 @@
 ---
 title: "杨树广博士"
 excerpt: "科研主管 "
-collection: portfolio
+collection: 实验室成员
 ---
 
  
